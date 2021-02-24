@@ -16,16 +16,16 @@ When you’re on the main page for the repository, you’ll see a “Fork” but
 
 * Clone the repository and add the upstream
 ```
-$ git clone https://github.com/<your-username>/<repo-name>
+$ git clone https://github.com/<your-username>/Malaria-Detection
 
-$ cd  <repo-name>
+$ cd  Malaria-Detection
 
-$ git remote add upstream https://github.com/<repo-owner>/<repo-name>
+$ git remote add upstream https://github.com/UAceIt-Winter-of-Mentorship/Malaria-Detection
 ```
 
 * If you have already forked the project, update your copy.
 ```
-$ cd <repo-name>
+$ cd Malaria-Detection
 
 $ git remote update
 
@@ -78,10 +78,3 @@ And your pull request is ready to merge 🥳
 * [Git Tutorial](http://think-like-a-git.net/)
 * [Git Cheat Sheet](https://sethrobertson.github.io/GitBestPractices/)
 * [Create A Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
-
-
-
-
-
-
-
